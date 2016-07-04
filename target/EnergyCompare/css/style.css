@@ -1,0 +1,33 @@
+body {
+	background-color: #f0f0f0;
+}
+
+div.inner {
+	float: top;
+	background-color: #cfcfff;
+	margin: 5px;
+	padding: 5px;
+}
+
+div.outer {
+	float: left;
+	width: 50%;
+}
+
+table {
+	border-collapse: collapse;
+}
+
+table, th, td {
+	border: 1px solid black;
+}
+
+th, td {
+	text-align: center;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.borderless {
+	border: 0px solid black;
+}
